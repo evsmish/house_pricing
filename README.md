@@ -6,7 +6,7 @@ In this project, I experimented with several machine learning models, including 
 
 This repository contains several scripts that can be used to prepare the data, perform exploratory data analysis, create new features, train and evaluate the models, and make predictions on the test set. 
 
-**Results**
+**Results:**
 My final submission achieved a root-mean-squared-error (RMSE) of 0.12316 on the test set.
 
 P.S. I hope you find this repository helpful in your own machine learning projects. Please feel free to reach out to me if you have any questions or suggestions for improvements.
